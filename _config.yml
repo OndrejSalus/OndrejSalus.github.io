@@ -9,7 +9,7 @@ version: 2
 name: Ondřej Sálus
 title: Software Developer
 email: ondrej.salus@seznam.cz
-website: www.github.com/OndrejSalus/OndrejSalus.github.io
+# website: OndrejSalus.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -46,11 +46,15 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/foto.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Ondřej and I'm a junior software developer in SAP. I'am currently working on chatbot development. I have experience with developing in Python and JavaScript. 
+  
+  TODO add more info
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Vue</mark> and <mark>Python</mark>
+
+  TODO add more skills
 
 content:
   - title: Projects # Title for the section
