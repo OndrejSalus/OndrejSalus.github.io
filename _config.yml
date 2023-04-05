@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/foto.jpg
+about_profile_image: images/foto.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Ondřej and I'm a junior software developer in SAP. I'am currently working on chatbot development. I have experience with developing in Python and JavaScript. 
   
