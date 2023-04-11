@@ -52,10 +52,22 @@ about_content: | # this will include new lines to allow paragraphs
   
   TODO add more info
 
-  I am most skilled in: <mark>Vue.js</mark> and <mark>Python</mark>Vue.js.
-  My other skills include working with: <mark>OData</mark>, <mark>Jira</mark>, <mark>GitHub</mark>, <mark>GitLab</mark>, <mark>CI/CD</mark>, <mark>OData</mark>, <mark>Linux</mark>, <mark>Windows</mark>, <mark>C/C++</mark>
+  I am most skilled in: <mark>Python</mark> and <mark>JavaScript</mark>Vue.js.
 
-  TODO add more skills
+   My other skills include working with:
+  ---
+  # A list of tasty fruits
+  - <mark>Vue.js</mark>
+  - <mark>OData</mark>
+  - <mark>Jira</mark>
+  - <mark>GitHub</mark>
+  - <mark>GitLab</mark>
+  - <mark>CI/CD</mark>
+  - <mark>OData</mark>
+  - <mark>Linux</mark>
+  - <mark>Windows</mark>
+  - <mark>C/C++</mark>
+  ...
 
 content:
   - title: Projects # Title for the section
